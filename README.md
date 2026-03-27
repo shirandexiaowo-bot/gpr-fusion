@@ -70,7 +70,7 @@ If you find this code or research helpful, please cite our paper:
 
 @article{YourName2026GPR,
 	title={Multi-Scene GPR Data Fusion Based on a Sequential Cycle-GAN and Transformer Network},
-	author={Your Name, Xihong Cui, et al.},
+	author={Huaxiang Yin, Xihong Cui, et al.},
 	journal={Computers & Geosciences},
 	year={2026}
 }
