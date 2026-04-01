@@ -53,7 +53,7 @@ Key Features:
 	* Bash: cd ../transformer && pip install -r requirements.txt
 	* Place Stage 1 outputs into ./data/
 	* Run the fusion inference (demo data included)
-		+ Example command: python test_fusion.py
+		+ Example command: python fusion.py
 
 ## Data Preparation
 
@@ -68,7 +68,7 @@ Note: We provide demo data in the transformer/data/ directory. You can run the S
 
 If you find this code or research helpful, please cite our paper:
 
-@article{YourName2026GPR,
+@article{2026GPR,
 	title={Multi-Scene GPR Data Fusion Based on a Sequential Cycle-GAN and Transformer Network},
 	author={Huaxiang Yin, Xihong Cui, et al.},
 	journal={Computers & Geosciences},
